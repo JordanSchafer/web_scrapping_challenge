@@ -1,1 +1,0 @@
-path="C:/Users/jchaf/.wdm/drivers/chromedriver/win32/86.0.4240.22/chromedriver.exe"
